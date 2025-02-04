@@ -1,0 +1,10 @@
+9:9
+xxxxxxxxx
+x o x   x
+x b x   x
+x   x   x
+x b    ox
+x   x   x
+x   x   x
+x  px   x
+xxxxxxxxx
